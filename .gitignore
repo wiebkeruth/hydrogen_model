@@ -158,5 +158,4 @@ profile_default/
 
 site/
 *.pyc
-*.xlsx
 *.csv
